@@ -1,0 +1,23 @@
+* Un nodo es un commit
+
+
+// Una rama representa cambios que se han hecho.
+
+// los tipos de ramas que hay son:
+
+*master: Es la version definitiva.
+
+*hotfix: 
+*release
+*develop
+*features
+
+// como puedo buscar el commit:
+
+	un comit se puede buscar con el hash, el hash es un 
+	identificador unico de cada commit.
+	
+// Las licencias gratuitas son la MIT
+
+// pull request PR
+

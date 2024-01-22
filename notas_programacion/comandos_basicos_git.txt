@@ -1,0 +1,42 @@
+
+
+// como crear un nuevo repositorio:
+
+	git init
+ 
+// para saber si han habido cambios:
+
+	git status
+	
+// agregar los archivos nuevos:
+
+	git add + "nombre del archivo sin comillas"
+
+// para agregar todo es:
+	
+	git add .
+	
+// para remover un archivo:
+
+	git rm --cached + "nombre del archivo sin comillas"
+	
+	Nota: el rm proviene de la palabra en ingles remove.
+
+//	hacer comentarios "commit":
+
+	git commit -m "el mensaje que se va a poner debe ir en comillas"
+
+// para ver todos los commits:
+
+	git log
+
+// para crear la rama principal:
+	
+	git branch -M main
+	
+// git remote add origin https://github.com/sebgomva/test-queso.git
+	
+
+// para subir cambios  a la misma rama 
+
+	git push origin main	
